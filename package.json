@@ -1,0 +1,23 @@
+{
+  "name": "Html5VideoShortCutPlugin",
+  "title": "Html5VideoShortCutPlugin",
+  "description": "A simple plugin for shortcuts in html5 video player",
+  "author": {
+    "name": "Conscious Observer"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "main": "Server",
+  "devDependencies": {
+	"connect":"x",
+    "serve-static":"x"
+  }
+}
