@@ -10,6 +10,7 @@ Following functionalities are currently supported:
 5. Slow down ('-' key)
 6. Rewind (Not working)
 7. taking a screenshot
+8. play/pause (spacebar and mouse click)
 
 Following are supported options :
 
