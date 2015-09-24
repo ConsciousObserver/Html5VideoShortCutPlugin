@@ -38,5 +38,5 @@ vid.videoShortCuts({
 ```
 
 **I have added a video from W3Schools in the sample file public/index.html, which is fairly short (only 10 seconds).
-This may not show you the navigation capability as the shorted default jump is 10 seconds. You'll have to add your 
+This may not show you the navigation capability as the shortest default jump is 10 seconds. You'll have to add your 
 own video to test the navigation capabilities.**
