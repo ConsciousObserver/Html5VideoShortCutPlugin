@@ -38,7 +38,6 @@
 
 		if(options.resizeEnabled) {
 			options.eventReceiverNode.dblclick(function (event) {
-				console.log("body double clicked");
 				var x = event.clientX;
 				var y = event.clientY;
 				
@@ -69,7 +68,6 @@
 			isFullScreen = !isFullScreen;
 		});	
 		options.eventReceiverNode.keydown(function (event) {
-			console.log("key pressed " + event.keyCode + " : '" + event.which + "'");
 			var key = event.keyCode;
 			
 			var volumeShift = 0.01;
