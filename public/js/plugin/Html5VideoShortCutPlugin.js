@@ -12,7 +12,7 @@
 				slowdownKey: 107 abd 189, // keyboard and numpad - (minus) key
 				videoSpeedChangeCallback: function (playbackRate) {},
 				rewindKey: 82, // 'r' rewind is not working, somehow playbackRate has no effect for negative value
-				screenshotKey: 69// shift + 'e' 
+				screenshotKey: 69// 'e' 
 			}
 		*/
 		options = options || {};
